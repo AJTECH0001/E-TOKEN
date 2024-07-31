@@ -1,0 +1,8 @@
+{
+  "celo": {
+    "WassetToken": {
+      "address": "0x42C16109b85cf9552fA1A068EB46fF5117d964B4",
+      "startBlock": 0
+    }
+  }
+}
